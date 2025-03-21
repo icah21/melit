@@ -1,1 +1,0 @@
-print('We are so cute together, aren\'t we?')
